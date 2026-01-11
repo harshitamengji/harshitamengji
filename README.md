@@ -69,7 +69,7 @@ Currently, I am working as a **Data Analyst Intern** at **Vebsigns**, building e
 
 ### 🌐 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/HarshitaMengji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harshita Mengji" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshita-mengji-5424301a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harshita Mengji" height="30" width="40" /></a>
 <a href="mailto:harshitammengji@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="harshitammengji@gmail.com" height="30" width="40" /></a>
 </p>
 
